@@ -1,0 +1,6 @@
+# Core dependencies
+python-dotenv
+google-generativeai
+mcp
+# Async handling
+anyio>=4.5
